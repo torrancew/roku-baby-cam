@@ -1,7 +1,7 @@
 {
     "providerName": "BabyCamera",
     "language": "en-us",
-    "lastUpdated": "2023-04-21T00:55:20.125Z",
+    "lastUpdated": "2023-04-21T00:57:20.125Z",
     "shortFormVideos": [{
         "id": "babycam",
         "title": "Baby Camera",
@@ -9,8 +9,6 @@
         "longDescription": "Baby camera live feed",
         "thumbnail": "https://github.com/torrancew/roku-baby-cam/raw/develop/thumbnail.png",
         "brandedThumbnail": "https://github.com/torrancew/roku-baby-cam/raw/develop/thumbnail.png",
-        "genres": [],
-        "tags": [],
         "releaseDate": "2023-04-20",
         "content": {
             "dateAdded": "2023-04-21T00:55:20.125Z",
